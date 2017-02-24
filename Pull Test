@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Narobi</title>
+  <link rel="stylesheet" href="Crimson.css">
+</head>
+<body>
+  <div id="navBar">
+    <h1>Crimson Bio-Technologies</h1>
+    <p>Engineering the Future</p>
+    <ul>
+      <li><a href="#">Order</a></li>
+      <li><a href="#">Sign-in</a></li>
+    </ul>
+  </div>
+  <div id="content">
+    <div id="image">
+    </div>
+    <div id="sideBar">
+      <div id="tranSlide">
+        <div id="transCont">
+          <ul>
+            <li><a href="#">Consulting</a>
+              <li><a href="#">Rainbow Roll</a></li>
+              <li><a href="#">California Roll</a></li>
+              <li><a href="#">Spider Roll</a></li>
+              <li><a href="#">Philadelphia Roll</a></li>
+              <li><a href="#">Hot Night Roll</a></li>
+              <li><a href="#">Genes Dragon Roll</a></li>
+              <li><a href="#">Smash Roll</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="footer">
+      <div id="supporting">
+      </div>
+    </div>
+  </div>
+  </div>
+</body>
+
+</html>
